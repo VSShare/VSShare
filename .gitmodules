@@ -4,3 +4,6 @@
 [submodule "Extension2015"]
 	path = Extension2015
 	url = https://github.com/bonprosoft/Extension-VS2015.git
+[submodule "ProtocolModels"]
+	path = ProtocolModels
+	url = https://github.com/VSShare/VSShare-ProtocolModels.git
