@@ -1,3 +1,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/bonprosoft/VSShare-Server.git
+[submodule "Extension2015"]
+	path = Extension2015
+	url = https://github.com/bonprosoft/Extension-VS2015.git
